@@ -1,0 +1,7 @@
+{
+	"title": "React-Native for Tensorflow",
+	"url": "https://github.com/JunwookHeo/tfjsml",
+	"imageurl": "https://raw.githubusercontent.com/JunwookHeo/tfjsml/master/Doc/ImageClassification3.png",
+	"description": "The project is an example of react-native application using Tensorflow.js for image classification",
+	"category":["P", "ML"]
+}

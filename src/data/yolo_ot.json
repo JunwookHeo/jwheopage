@@ -1,0 +1,7 @@
+{
+	"title": "Object Tracking with YOLO v3",
+	"url": "https://github.com/JunwookHeo/YOLO-OT",
+	"imageurl": "https://raw.githubusercontent.com/JunwookHeo/YOLO-OT/master/Report/YOTMCLS.png",
+	"description": "The project utilized YOLO v3 and LSTM for object tracking",
+	"category":["ML"]
+}

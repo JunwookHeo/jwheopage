@@ -1,0 +1,7 @@
+{
+	"title": "Basic theories for data mining",
+	"url": "https://github.com/JunwookHeo/Data_Mining",
+	"imageurl": "https://raw.githubusercontent.com/JunwookHeo/Data_Mining/master/hierarchicalClustering.png",
+	"description": "The project includes some examples such as hierarchical clustering, text generator and text mining",
+	"category":["P", "DS"]
+}

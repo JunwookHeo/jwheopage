@@ -1,0 +1,7 @@
+{
+	"title": "Siamese network with Contrastive Loss",
+	"url": "https://github.com/JunwookHeo/Siamese_Network",
+	"imageurl": "https://raw.githubusercontent.com/JunwookHeo/Siamese_Network/master/Siamese%20CNN.jpg",
+	"description": "The Siamese network with a contrastive loss function was implemented with tensorflow",
+	"category":["P", "ML"]
+}
