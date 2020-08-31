@@ -1,0 +1,7 @@
+{
+	"title": "Information retrieval system",
+	"url": "https://github.com/JunwookHeo/HJSIR647",
+	"imageurl": "https://raw.githubusercontent.com/JunwookHeo/HJSIR647/master/ir.png",
+	"description": "This is an information retrieval system using Lucene.net 3.0.3 in C#",
+	"category":["P", "DS"]
+}
