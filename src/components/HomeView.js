@@ -3,17 +3,23 @@ import { Card, Button, Nav } from 'react-bootstrap'
 
 export default function HomeView() {
   return (
-    <Card style={{ width: '24rem', marginTop: '1rem' }}>
+    <Card style={{ width: '35rem' }}>
+      <Card.Img variant="top" src={require('../resources/diego-ph-fIq0tET6llw-unsplash.jpg')} />
+      <Card.ImgOverlay>
       <Card.Body>
-        <Card.Title>What is computer proramming?</Card.Title>
+        <Card.Title>Thinking, Fast and Slow</Card.Title>
         <Card.Text>
-          Computer programming is the process of designing and building an executable computer program
-          to accomplish a specific computing result or to perform a specific task.
-    </Card.Text>
-        <Nav.Link href="https://en.wikipedia.org/wiki/Computer_programming">From wikipedia</Nav.Link>
+        <ul>
+          <li>System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control.</li>
+          <li>System 2 allocates attention to the effortful mental activities that demand it, including complex computations. The operations of
+              System 2 are often associated with the subjective experience of agency, choice, and concentration.</li>
+        </ul>
+        </Card.Text>
+        <Nav.Link href="https://en.wikipedia.org/wiki/Daniel_Kahneman">Daniel Kahneman</Nav.Link>
         {/* <Button variant="primary">Go somewhere</Button> */}
       </Card.Body>
-      <Card.Img variant="top" src={require('../resources/jefferson-santos-V9sv7QrDUgc-unsplash.jpg')} />
+      </Card.ImgOverlay>
+      
     </Card>
   );
 }

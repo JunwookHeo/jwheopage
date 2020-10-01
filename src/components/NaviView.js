@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 
 export default function NaviView() {
 	return (
-		<Navbar bg="dark" variant="dark" style={{ marginTop:'1rem' }}>
+		<Navbar bg="dark" variant="dark" style={{ marginTop:'1rem', width:'100%' }}>
     <Navbar.Brand as={Link} to="/" >JWH</Navbar.Brand>
-    <Nav className="mr-auto">
+    <Nav className="m-auto">
       <Nav.Link as={Link} to="/" >Home</Nav.Link>
       <Nav.Link as={Link} to="/programming" >Programming</Nav.Link>
       <Nav.Link as={Link} to="/machinelearning">Machine Learning</Nav.Link>
